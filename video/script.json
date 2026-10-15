@@ -1,0 +1,13 @@
+[
+ {"id":"open","lines":["When a hurricane makes landfall, recovery funding can only move as fast as the damage is documented."]},
+ {"id":"problem","lines":["Today, that means inspectors walking site after site, measuring by hand, and building each federal damage record one line at a time.","It's slow, it's expensive, and it's where recovery stalls."]},
+ {"id":"idea","lines":["Now picture one connected workflow, from a drone in the air to a finished damage record."]},
+ {"id":"capture","lines":["It starts with flight. A wide sweep maps the entire community within hours.","Then detailed flights capture each priority facility from every angle, with survey-grade positioning."]},
+ {"id":"process","lines":["Imagery lands in a secure cloud environment, checked and catalogued with a full chain of custody.","There, it's stitched into a seamless map and a three-dimensional surface model."]},
+ {"id":"train","lines":["Next, the models learn from experts, not from scratch.","We start from an open Texas A and M dataset of more than twenty-one thousand labelled buildings.","In Roboflow, a plain-language prompt drafts new labels, and an AI agent runs the job.","Specialists correct what it misses, and we train two models: one for the whole community, and one for each building."]},
+ {"id":"detect","lines":["Then the models go to work.","Every building gets a damage rating, every road a status, and response teams get a route around what's blocked.","This is real labelled data, from Fort Myers Beach after Hurricane Ian."]},
+ {"id":"locate","lines":["At each priority facility, the system pinpoints every defect, measures it, and records exactly how certain it is."]},
+ {"id":"review","lines":["People stay in control. Analysts confirm, reject, or send each finding to the field.","And every correction makes the next model sharper."]},
+ {"id":"deliver","lines":["Confirmed findings flow into the Damage Description and Dimensions, the FEMA record the inspector verifies.","The client receives the complete package: maps, measurements, imagery, and the evidence behind every line."]},
+ {"id":"close","lines":["One workflow. From flight, to field, to funding.","The pieces exist today. Connecting them is the opportunity."]}
+]

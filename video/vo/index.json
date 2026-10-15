@@ -1,0 +1,178 @@
+[
+ {
+  "scene": "open",
+  "i": 0,
+  "text": "When a hurricane makes landfall, recovery funding can only move as fast as the damage is documented.",
+  "file": "vo/open_0.wav",
+  "dur": 6.11,
+  "sr": 24000
+ },
+ {
+  "scene": "problem",
+  "i": 0,
+  "text": "Today, that means inspectors walking site after site, measuring by hand, and building each federal damage record one line at a time.",
+  "file": "vo/problem_0.wav",
+  "dur": 8.31,
+  "sr": 24000
+ },
+ {
+  "scene": "problem",
+  "i": 1,
+  "text": "It's slow, it's expensive, and it's where recovery stalls.",
+  "file": "vo/problem_1.wav",
+  "dur": 3.221,
+  "sr": 24000
+ },
+ {
+  "scene": "idea",
+  "i": 0,
+  "text": "Now picture one connected workflow, from a drone in the air to a finished damage record.",
+  "file": "vo/idea_0.wav",
+  "dur": 5.328,
+  "sr": 24000
+ },
+ {
+  "scene": "capture",
+  "i": 0,
+  "text": "It starts with flight. A wide sweep maps the entire community within hours.",
+  "file": "vo/capture_0.wav",
+  "dur": 4.756,
+  "sr": 24000
+ },
+ {
+  "scene": "capture",
+  "i": 1,
+  "text": "Then detailed flights capture each priority facility from every angle, with survey-grade positioning.",
+  "file": "vo/capture_1.wav",
+  "dur": 6.144,
+  "sr": 24000
+ },
+ {
+  "scene": "process",
+  "i": 0,
+  "text": "Imagery lands in a secure cloud environment, checked and catalogued with a full chain of custody.",
+  "file": "vo/process_0.wav",
+  "dur": 6.109,
+  "sr": 24000
+ },
+ {
+  "scene": "process",
+  "i": 1,
+  "text": "There, it's stitched into a seamless map and a three-dimensional surface model.",
+  "file": "vo/process_1.wav",
+  "dur": 4.324,
+  "sr": 24000
+ },
+ {
+  "scene": "train",
+  "i": 0,
+  "text": "Next, the models learn from experts, not from scratch.",
+  "file": "vo/train_0.wav",
+  "dur": 3.201,
+  "sr": 24000
+ },
+ {
+  "scene": "train",
+  "i": 1,
+  "text": "We start from an open Texas A and M dataset of more than twenty-one thousand labelled buildings.",
+  "file": "vo/train_1.wav",
+  "dur": 6.052,
+  "sr": 24000
+ },
+ {
+  "scene": "train",
+  "i": 2,
+  "text": "In Roboflow, a plain-language prompt drafts new labels, and an AI agent runs the job.",
+  "file": "vo/train_2.wav",
+  "dur": 5.929,
+  "sr": 24000
+ },
+ {
+  "scene": "train",
+  "i": 3,
+  "text": "Specialists correct what it misses, and we train two models: one for the whole community, and one for each building.",
+  "file": "vo/train_3.wav",
+  "dur": 6.699,
+  "sr": 24000
+ },
+ {
+  "scene": "detect",
+  "i": 0,
+  "text": "Then the models go to work.",
+  "file": "vo/detect_0.wav",
+  "dur": 1.479,
+  "sr": 24000
+ },
+ {
+  "scene": "detect",
+  "i": 1,
+  "text": "Every building gets a damage rating, every road a status, and response teams get a route around what's blocked.",
+  "file": "vo/detect_1.wav",
+  "dur": 6.794,
+  "sr": 24000
+ },
+ {
+  "scene": "detect",
+  "i": 2,
+  "text": "This is real labelled data, from Fort Myers Beach after Hurricane Ian.",
+  "file": "vo/detect_2.wav",
+  "dur": 4.543,
+  "sr": 24000
+ },
+ {
+  "scene": "locate",
+  "i": 0,
+  "text": "At each priority facility, the system pinpoints every defect, measures it, and records exactly how certain it is.",
+  "file": "vo/locate_0.wav",
+  "dur": 7.403,
+  "sr": 24000
+ },
+ {
+  "scene": "review",
+  "i": 0,
+  "text": "People stay in control. Analysts confirm, reject, or send each finding to the field.",
+  "file": "vo/review_0.wav",
+  "dur": 5.699,
+  "sr": 24000
+ },
+ {
+  "scene": "review",
+  "i": 1,
+  "text": "And every correction makes the next model sharper.",
+  "file": "vo/review_1.wav",
+  "dur": 2.715,
+  "sr": 24000
+ },
+ {
+  "scene": "deliver",
+  "i": 0,
+  "text": "Confirmed findings flow into the Damage Description and Dimensions, the FEMA record the inspector verifies.",
+  "file": "vo/deliver_0.wav",
+  "dur": 6.905,
+  "sr": 24000
+ },
+ {
+  "scene": "deliver",
+  "i": 1,
+  "text": "The client receives the complete package: maps, measurements, imagery, and the evidence behind every line.",
+  "file": "vo/deliver_1.wav",
+  "dur": 6.593,
+  "sr": 24000
+ },
+ {
+  "scene": "close",
+  "i": 0,
+  "text": "One workflow. From flight, to field, to funding.",
+  "file": "vo/close_0.wav",
+  "dur": 2.974,
+  "sr": 24000
+ },
+ {
+  "scene": "close",
+  "i": 1,
+  "text": "The pieces exist today. Connecting them is the opportunity.",
+  "file": "vo/close_1.wav",
+  "dur": 3.645,
+  "sr": 24000
+ }
+]

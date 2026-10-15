@@ -1,0 +1,216 @@
+{
+ "duration": 144.333,
+ "scenes": [
+  {
+   "id": "open",
+   "start": 0.0,
+   "end": 8.51
+  },
+  {
+   "id": "problem",
+   "start": 8.51,
+   "end": 22.141
+  },
+  {
+   "id": "idea",
+   "start": 22.141,
+   "end": 29.269
+  },
+  {
+   "id": "capture",
+   "start": 29.269,
+   "end": 42.369
+  },
+  {
+   "id": "process",
+   "start": 42.369,
+   "end": 54.902
+  },
+  {
+   "id": "train",
+   "start": 54.902,
+   "end": 80.083
+  },
+  {
+   "id": "detect",
+   "start": 80.083,
+   "end": 96.199
+  },
+  {
+   "id": "locate",
+   "start": 96.199,
+   "end": 105.602
+  },
+  {
+   "id": "review",
+   "start": 105.602,
+   "end": 116.116
+  },
+  {
+   "id": "deliver",
+   "start": 116.116,
+   "end": 131.914
+  },
+  {
+   "id": "close",
+   "start": 131.914,
+   "end": 144.333
+  }
+ ],
+ "lines": [
+  {
+   "scene": "open",
+   "start": 1.6,
+   "end": 7.71,
+   "text": "When a hurricane makes landfall, recovery funding can only move as fast as the damage is documented.",
+   "file": "vo/open_0.wav"
+  },
+  {
+   "scene": "problem",
+   "start": 9.21,
+   "end": 17.52,
+   "text": "Today, that means inspectors walking site after site, measuring by hand, and building each federal damage record one line at a time.",
+   "file": "vo/problem_0.wav"
+  },
+  {
+   "scene": "problem",
+   "start": 18.02,
+   "end": 21.241,
+   "text": "It's slow, it's expensive, and it's where recovery stalls.",
+   "file": "vo/problem_1.wav"
+  },
+  {
+   "scene": "idea",
+   "start": 22.741,
+   "end": 28.069,
+   "text": "Now picture one connected workflow, from a drone in the air to a finished damage record.",
+   "file": "vo/idea_0.wav"
+  },
+  {
+   "scene": "capture",
+   "start": 29.869,
+   "end": 34.625,
+   "text": "It starts with flight. A wide sweep maps the entire community within hours.",
+   "file": "vo/capture_0.wav"
+  },
+  {
+   "scene": "capture",
+   "start": 35.125,
+   "end": 41.269,
+   "text": "Then detailed flights capture each priority facility from every angle, with survey-grade positioning.",
+   "file": "vo/capture_1.wav"
+  },
+  {
+   "scene": "process",
+   "start": 42.969,
+   "end": 49.078,
+   "text": "Imagery lands in a secure cloud environment, checked and catalogued with a full chain of custody.",
+   "file": "vo/process_0.wav"
+  },
+  {
+   "scene": "process",
+   "start": 49.578,
+   "end": 53.902,
+   "text": "There, it's stitched into a seamless map and a three-dimensional surface model.",
+   "file": "vo/process_1.wav"
+  },
+  {
+   "scene": "train",
+   "start": 55.502,
+   "end": 58.703,
+   "text": "Next, the models learn from experts, not from scratch.",
+   "file": "vo/train_0.wav"
+  },
+  {
+   "scene": "train",
+   "start": 59.203,
+   "end": 65.255,
+   "text": "We start from an open Texas A and M dataset of more than twenty-one thousand labelled buildings.",
+   "file": "vo/train_1.wav"
+  },
+  {
+   "scene": "train",
+   "start": 65.755,
+   "end": 71.684,
+   "text": "In Roboflow, a plain-language prompt drafts new labels, and an AI agent runs the job.",
+   "file": "vo/train_2.wav"
+  },
+  {
+   "scene": "train",
+   "start": 72.184,
+   "end": 78.883,
+   "text": "Specialists correct what it misses, and we train two models: one for the whole community, and one for each building.",
+   "file": "vo/train_3.wav"
+  },
+  {
+   "scene": "detect",
+   "start": 80.783,
+   "end": 82.262,
+   "text": "Then the models go to work.",
+   "file": "vo/detect_0.wav"
+  },
+  {
+   "scene": "detect",
+   "start": 82.762,
+   "end": 89.556,
+   "text": "Every building gets a damage rating, every road a status, and response teams get a route around what's blocked.",
+   "file": "vo/detect_1.wav"
+  },
+  {
+   "scene": "detect",
+   "start": 90.056,
+   "end": 94.599,
+   "text": "This is real labelled data, from Fort Myers Beach after Hurricane Ian.",
+   "file": "vo/detect_2.wav"
+  },
+  {
+   "scene": "locate",
+   "start": 96.799,
+   "end": 104.202,
+   "text": "At each priority facility, the system pinpoints every defect, measures it, and records exactly how certain it is.",
+   "file": "vo/locate_0.wav"
+  },
+  {
+   "scene": "review",
+   "start": 106.202,
+   "end": 111.901,
+   "text": "People stay in control. Analysts confirm, reject, or send each finding to the field.",
+   "file": "vo/review_0.wav"
+  },
+  {
+   "scene": "review",
+   "start": 112.401,
+   "end": 115.116,
+   "text": "And every correction makes the next model sharper.",
+   "file": "vo/review_1.wav"
+  },
+  {
+   "scene": "deliver",
+   "start": 116.716,
+   "end": 123.621,
+   "text": "Confirmed findings flow into the Damage Description and Dimensions, the FEMA record the inspector verifies.",
+   "file": "vo/deliver_0.wav"
+  },
+  {
+   "scene": "deliver",
+   "start": 124.121,
+   "end": 130.714,
+   "text": "The client receives the complete package: maps, measurements, imagery, and the evidence behind every line.",
+   "file": "vo/deliver_1.wav"
+  },
+  {
+   "scene": "close",
+   "start": 132.714,
+   "end": 135.688,
+   "text": "One workflow. From flight, to field, to funding.",
+   "file": "vo/close_0.wav"
+  },
+  {
+   "scene": "close",
+   "start": 136.188,
+   "end": 139.833,
+   "text": "The pieces exist today. Connecting them is the opportunity.",
+   "file": "vo/close_1.wav"
+  }
+ ]
+}
