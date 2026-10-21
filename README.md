@@ -2,7 +2,9 @@
 
 A concept prototype for disaster recovery documentation: from a drone flight to a draft **Damage Description and Dimensions (DDD)** for FEMA Public Assistance.
 
-Open `index.html` in a browser. It is a single self-contained page with no build step. It needs internet access for fonts and three.js from public CDNs.
+**Live demo:** https://webgpu-demos.github.io/sortie-recovery/
+
+Or open `index.html` locally. It is a single self-contained page with no build step. It needs internet access for fonts and three.js from public CDNs.
 
 ## The workflow
 
